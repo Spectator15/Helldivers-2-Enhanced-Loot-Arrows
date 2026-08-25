@@ -6,7 +6,7 @@
 
 ## What this changes
 
-This is an enhanced modification of the existing `Customizable Cheat Arrows` mod. It keeps the same general idea: visible arrows and icons above loot so resources are easier to spot at a glance.
+This is an enhanced modification of the existing [Customizable Cheat Arrows](https://mods.rpghq.org/helldivers-2/176522) mod. It keeps the same general idea: visible arrows and icons above loot so resources are easier to spot at a glance.
 
 The enhanced package changes real marker meshes rather than editing the preview JPGs. Arrows are thicker, important icons are larger, and resource colours are easier to distinguish from a distance.
 
@@ -94,11 +94,11 @@ mod/Bunker Warning/9ba626afa44a3aa3.patch_14
 
 ## Attribution and permissions
 
-This project is an enhanced modification of the existing `Customizable Cheat Arrows` mod.
+This project is an enhanced modification of the existing [Customizable Cheat Arrows](https://mods.rpghq.org/helldivers-2/176522) mod.
 
 I do not claim ownership of the original mod, preview images, shared texture option, Helldivers 2 assets, or game-derived files included in this package.
 
-This project is unofficial and is not affiliated with Arrowhead Game Studios, Sony Interactive Entertainment, the original mod author, Arsenal, or the HD2 SDK Community Edition project.
+This project is unofficial and is not affiliated with Arrowhead Game Studios, Sony Interactive Entertainment, the original mod author, Arsenal, ModHQ, or the HD2 SDK Community Edition project.
 
 No open-source licence is provided because this enhancement contains third-party mod assets and game-derived assets whose original licensing terms have not been verified.
 
