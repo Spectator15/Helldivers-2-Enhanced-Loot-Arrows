@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "Guid": "30c8f1d2-1ed3-45a4-b9f0-d0c5b9bb2d7e",
+  "Name": "Helldivers 2 Enhanced Loot Arrows",
+  "Description": "Clearer Helldivers 2 loot markers with larger arrows, stronger resource colours, and an optional two-player bunker warning.",
+  "IconPath": "Images/icon.jpg",
+  "Options": [
+    {
+      "Name": "Texture",
+      "Description": "Required option (do not uncheck)",
+      "Include": [
+        "Texture"
+      ]
+    },
+    {
+      "Name": "Super Credit",
+      "Description": "Super Credits",
+      "Image": "Images/Credit.jpg",
+      "SubOptions": [
+        {
+          "Name": "High",
+          "Description": "The arrow extends high into the sky.",
+          "Image": "Images/Credit-High.jpg",
+          "Include": [
+            "Credit/High"
+          ]
+        },
+        {
+          "Name": "Low",
+          "Description": "The arrow is positioned below the icon.",
+          "Image": "Images/Credit-Low.jpg",
+          "Include": [
+            "Credit/Low"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Medal",
+      "Description": "Medals",
+      "Image": "Images/Medal.jpg",
+      "SubOptions": [
+        {
+          "Name": "High",
+          "Description": "The arrow extends high into the sky.",
+          "Image": "Images/Medal-High.jpg",
+          "Include": [
+            "Medal/High"
+          ]
+        },
+        {
+          "Name": "Low",
+          "Description": "The arrow is positioned below the icon.",
+          "Image": "Images/Medal-Low.jpg",
+          "Include": [
+            "Medal/Low"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Requisition Slips",
+      "Description": "Requisition Slips",
+      "Image": "Images/Requisition.jpg",
+      "SubOptions": [
+        {
+          "Name": "High",
+          "Description": "The arrow extends high into the sky.",
+          "Image": "Images/Requisition-High.jpg",
+          "Include": [
+            "Requisition/High"
+          ]
+        },
+        {
+          "Name": "Low",
+          "Description": "The arrow is positioned below the icon.",
+          "Image": "Images/Requisition-Low.jpg",
+          "Include": [
+            "Requisition/Low"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Common Sample",
+      "Description": "Common Samples",
+      "Image": "Images/Common Sample.jpg",
+      "SubOptions": [
+        {
+          "Name": "High",
+          "Description": "The arrow extends high into the sky.",
+          "Image": "Images/Common Sample-High.jpg",
+          "Include": [
+            "Sample/High/Common"
+          ]
+        },
+        {
+          "Name": "Low",
+          "Description": "The arrow is positioned below the icon.",
+          "Image": "Images/Common Sample-Low.jpg",
+          "Include": [
+            "Sample/Low/Common"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Rare Sample",
+      "Description": "Rare Samples",
+      "Image": "Images/Rare Sample.jpg",
+      "SubOptions": [
+        {
+          "Name": "High",
+          "Description": "The arrow extends high into the sky.",
+          "Image": "Images/Rare Sample-High.jpg",
+          "Include": [
+            "Sample/High/Rare"
+          ]
+        },
+        {
+          "Name": "Low",
+          "Description": "The arrow is positioned below the icon.",
+          "Image": "Images/Rare Sample-Low.jpg",
+          "Include": [
+            "Sample/Low/Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Super Sample",
+      "Description": "Super Samples",
+      "Image": "Images/Super Sample.jpg",
+      "SubOptions": [
+        {
+          "Name": "High",
+          "Description": "The arrow extends high into the sky.",
+          "Image": "Images/Super Sample-High.jpg",
+          "Include": [
+            "Sample/High/Super"
+          ]
+        },
+        {
+          "Name": "Low",
+          "Description": "The arrow is positioned below the icon.",
+          "Image": "Images/Super Sample-Low.jpg",
+          "Include": [
+            "Sample/Low/Super"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Two-Player Bunker Warning",
+      "Description": "Adds a large 2P/X warning marker to the two-player bunker cache unit.",
+      "Include": [
+        "Bunker Warning"
+      ]
+    }
+  ]
+}
