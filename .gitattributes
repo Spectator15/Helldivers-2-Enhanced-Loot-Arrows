@@ -1,0 +1,7 @@
+# Mod package files are game data. Never convert line endings in them.
+mod/** -text
+*.patch_* binary
+*.gpu_resources binary
+*.stream binary
+*.jpg binary
+*.zip binary

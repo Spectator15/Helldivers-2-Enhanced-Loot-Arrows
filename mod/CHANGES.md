@@ -26,17 +26,17 @@ The real two-player bunker/cache unit was found in game archives as `content/env
 
 ## Limitations
 
-- This was verified by parsing the supplied mod patches and reconstructed Helldivers 2 archives with the HD2 SDK Community Edition file-format logic. Blender itself is not installed in this environment, so no Blender viewport/gameplay test was possible here.
+- The package was verified by parsing the mod patches and reconstructed Helldivers 2 archives with HD2 SDK Community Edition file-format logic. The Common Sample marker is confirmed in-game; the other markers and the bunker warning have not each been play-tested yet.
 - The warning marks the unique bunker cache unit, not the individual loot behind the door. That is intentional to avoid hiding normal loot incorrectly.
 - If the game culls an entire POI or never spawns/streams a distant bunker unit client-side, a marker attached to that unit cannot render before the unit exists locally.
 
 ## Installation
 
-Install this ZIP with the same Helldivers 2 mod manager/workflow used for the original Customizable Cheat Arrows mod. Keep the required `Texture` option enabled. Enable the resource marker options you want, plus `Two-Player Bunker Warning`.
+Import this ZIP into HD2 Arsenal (or the same mod manager you used for the original Customizable Cheat Arrows mod). Keep the required `Texture` option enabled. Enable the resource marker options you want, plus `Two-Player Bunker Warning`.
 
 ## Build notes
 
 - Loot unit patches changed: 30
 - Marker vertices adjusted: 291511
 - LOD groups/bounds touched: 106
-- Bunker sign meshes rewritten: [(8, 88, 132), (7, 88, 132), (6, 88, 132)]
+- Bunker sign meshes rewritten: 3
